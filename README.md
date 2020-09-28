@@ -14,6 +14,6 @@ solve_using_ocr()
 ```
 
 # Requis
-pytesseract ainsi que le programme tesseract sont requis pour utiliser le mode OCR
+pytesseract ainsi que le programme tesseract sont requis pour utiliser le mode OCR  
 Tesseract peut être installé pour Windows sur https://github.com/UB-Mannheim/tesseract/wiki
 
